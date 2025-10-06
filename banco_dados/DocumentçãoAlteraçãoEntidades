@@ -1,0 +1,18 @@
+Documentação da Alteração: Inclusão do campo idCliente
+
+Contexto:
+Durante o desenvolvimento do sistema, o grupo identificou a necessidade de otimizar a busca e o relacionamento dos dados de clientes no ambiente interno.
+
+Alteração realizada:
+Foi adicionado o campo idCliente na tabela/entidade relacionada a entregas para facilitar a associação direta com o cliente correspondente.
+
+Objetivo:
+
+Simplificar as consultas internas envolvendo clientes.
+
+Melhorar a performance e clareza do código, facilitando a manutenção futura.
+
+Proporcionar um vínculo explícito entre entregas e clientes no banco de dados.
+
+Impacto esperado:
+Essa alteração visa agilizar o desenvolvimento e a depuração, tornando mais eficiente o acesso às informações dos clientes vinculados às entregas.
